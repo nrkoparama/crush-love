@@ -4,7 +4,7 @@ const CONFIGDATA = {
     "Hãy trả lời một cách thật lòng!",
   buttonYes: "Yes sir, chắc chắn là như vậy rồi ",
   buttonNo: "no no no",
-  titleModar: "Cảm ơn cậu.",
+  titleModar: ":3.",
   descriptionModar:
     ":3",
 };
